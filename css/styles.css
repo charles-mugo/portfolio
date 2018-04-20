@@ -2,5 +2,9 @@ h1 {
     text-shadow: 3px 2px red;
 }
 div {
-    display: block;
+  display: block;
+  align-content: center;
+}
+h {
+  text-align: center;
 }
