@@ -31,5 +31,7 @@ img {
     margin-right: auto;
     width: 50%;
     opacity: 0.8;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+    filter: alpha(opacity=50);
+     /* For IE8 and earlier */
+    border-radius: 50%;
 }
