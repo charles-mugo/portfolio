@@ -21,6 +21,7 @@ div {
     padding: 25px;
     margin: 25px;
     clear: left;
+    align-items: center;
 }
 div {
     text-align: justify;
