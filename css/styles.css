@@ -1,15 +1,33 @@
 h1 {
-  color: blue;
+  color: grey;
   text-align: center;
 }
 h2 {
   font-style: italic;
   text-align: center;
-  color: grey;
+  color: white;
 }
 p {
-  color: gray;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
 }
 body {
-  background-color: black;
+    background-color: darkgrey;
+}
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    clear: left;
+}
+div {
+    text-align: justify;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
