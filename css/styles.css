@@ -21,7 +21,6 @@ div {
     padding: 25px;
     margin: 25px;
     clear: left;
-    align-items: center;
 }
 div {
     text-align: justify;
@@ -33,6 +32,8 @@ img {
     width: 50%;
     opacity: 0.8;
     filter: alpha(opacity=50);
-     /* For IE8 and earlier */
-    border-radius: 50%;
+    /* For IE8 and earlier */
+}
+img {
+    border-radius: 70%;
 }
