@@ -38,3 +38,6 @@ img {
 img {
     border-radius: 70%;
 }
+.center {
+  float: inherit;
+}
